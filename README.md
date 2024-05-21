@@ -1,6 +1,6 @@
 ###
 
-![octocat-1716333407594](https://github.com/asadsk8r02/asadsk8r02/assets/53692166/e081c0ec-49e4-40da-aa55-aa8e209ba325)
+<img src="https://github.com/asadsk8r02/asadsk8r02/assets/53692166/e081c0ec-49e4-40da-aa55-aa8e209ba325" alt="octocat" width="200" align="right">
 
 
 # 💻 Tech Stack...!!
