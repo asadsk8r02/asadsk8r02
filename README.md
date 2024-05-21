@@ -10,19 +10,18 @@
 - ⚡ Fun fact: I'm working towards a PPL (Private Pilots License)
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-khan-83944115a/)
 
-# 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=KunalKarnik&icon=5&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=asadsk8r02&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asadsk8r02&theme=onedark&hide_border=false)<br/>
 
-<!--
-![](https://github-readme-stats.vercel.app/api?username=KunalKarnik&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKarnik&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=asadsk8r02&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=asadsk8r02&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KunalKarnik&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=asadsk8r02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 https://github.com/Ileriayo/markdown-badges
--->
 
 
 
