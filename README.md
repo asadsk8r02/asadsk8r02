@@ -25,7 +25,7 @@
 - ⚡ Fun fact: I'm working towards a PPL (Private Pilots License)
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-khan-83944115a/)
 
-#@ 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=asadsk8r02&icon=5&color=0)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats: [![](https://visitcount.itsvg.in/api?id=asadsk8r02&icon=5&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=asadsk8r02&theme=onedark&hide_border=false)<br/>
 
